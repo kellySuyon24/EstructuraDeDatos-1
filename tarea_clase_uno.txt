@@ -1,0 +1,10 @@
+1. Mejorar el Codigo de Ejemplo Repaso
+	* Validar los Datos de Ingreso ( Si es
+		string solo string;
+		si es numero solo numero)
+		Utilizar Try catch.
+	* si por ejemplo se valida que el dato en posicion 2 no
+          es correcto solicitar volver a ingresar el dato.
+	* si doy click en cancelar la aplicacion debe terminar.
+2. Terminar el Ejercicio de ClaseRectangulo
+3. Agregar entrada de datos y sus validaciones
